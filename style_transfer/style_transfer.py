@@ -418,3 +418,4 @@ class StyleTransfer:
                 self.image.copy_(self.average.get())
 
         return self.get_image()
+

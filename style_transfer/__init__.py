@@ -7,3 +7,4 @@ del Path
 
 from .style_transfer import STIterate, StyleTransfer
 from .web_interface import WebInterface
+from cli import main2
